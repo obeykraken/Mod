@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "future_shell:blocks/neohierba_under",
+    "particle": "future_shell:blocks/neohierba_under"
+  }
+}

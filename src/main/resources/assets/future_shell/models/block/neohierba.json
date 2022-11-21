@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "future_shell:blocks/neohierba_under",
+    "top": "future_shell:blocks/neohierba_top",
+    "side": "future_shell:blocks/neohierba_lado",
+    "overlay": "future_shell:blocks/neohierba_lado",
+    "particle": "future_shell:blocks/neohierba_under"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "future_shell:blocks/neoarbor_top",
+    "up": "future_shell:blocks/neoarbor_top",
+    "north": "future_shell:blocks/tronco_neoarbor",
+    "east": "future_shell:blocks/neoarbor_lado1",
+    "south": "future_shell:blocks/neoarbor_lado1",
+    "west": "future_shell:blocks/neoarbor_lado1",
+    "particle": "future_shell:blocks/neoarbor_top"
+  }
+}

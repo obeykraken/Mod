@@ -1,0 +1,86 @@
+{
+  "mod_elements": [
+    {
+      "name": "Neotronco",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neotronco"
+    },
+    {
+      "name": "Neohojas",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neohojas"
+    },
+    {
+      "name": "Neohierba",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neohierba"
+    },
+    {
+      "name": "Neotierra",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neotierra"
+    },
+    {
+      "name": "Neonatura",
+      "type": "biome",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neonatura"
+    },
+    {
+      "name": "Neotablones",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neotablones"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.future_shell.neohierba": "Neohierba",
+      "block.future_shell.neotronco": "Neotronco",
+      "block.future_shell.neohojas": "Neohojas",
+      "biome.future_shell.neonatura": "Neonatura",
+      "block.future_shell.neotierra": "Neotierra",
+      "block.future_shell.neotablones": "Neotablones"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "future_shell",
+    "modName": "future_shell",
+    "version": "1.0.0",
+    "author": "krakenn, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.futureshell",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200347418
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "future_shell:block/neotronco",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "future_shell:block/neotronco"
+    },
+    "axis=z": {
+      "model": "future_shell:block/neotronco",
+      "x": 90
+    }
+  }
+}
